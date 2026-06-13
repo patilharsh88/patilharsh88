@@ -12,6 +12,7 @@ Passionate B.Tech IT graduate with hands-on experience in Java backend developme
   - Microservices
   - AI Backend Engineering
   - Advanced Spring Boot
+    
 - 🛠️ Backend Developer focused on Java ecosystem
 - 📚 Practicing DSA and problem solving
 - ⚡ Interested in scalable APIs and distributed systems
