@@ -8,6 +8,7 @@ Passionate B.Tech IT graduate with hands-on experience in Java backend developme
 
 - 🎓 B.Tech in Information Technology
 - 💼 1 Year Internship Experience in Java Development
+  
 - 🌱 Currently Learning:
   - Microservices
   - AI Backend Engineering
