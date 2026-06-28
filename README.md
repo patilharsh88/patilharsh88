@@ -62,17 +62,6 @@ A smart accommodation and property management platform designed to simplify tena
 
 ---
 
-## 📈 Stockify
-A stock market tracking and management application that helps users monitor stock performance, organize watchlists, and visualize market trends.
-
-### Tech Used:
-- Java
-- Spring Boot
-- REST APIs
-- MySQL
-
----
-
 # 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patilharsh_88&show_icons=true&theme=tokyonight)
